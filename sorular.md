@@ -39,6 +39,7 @@ Git’de branch değiştirmek için git checkout komutunu kullanabiliriz. git ch
 git checkout main
 
 git fetch, git merge ve git pull arasındaki farklıarı açıklayınız. Bu komutlar ne yapar açıklayınız.
+
 Git Fetch
 
 Kodu uzak depodan yerel depoya çeken bir komutttur.Uzak bir depoda yapılan değişiklikleri çakışma yaratmadan geri yükler.Birleştirme yapılmadığı için herhangi bir çakışma meydana gelmez.
